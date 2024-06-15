@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=Hello+World+!)](https://git.io/typing-svg)
+
 ### Olá eu sou VinyciusBrandão 👋
 #Apaixonado por inovação e tecnologia! 👨‍💻
 
